@@ -21,7 +21,6 @@ else:
     x1 = (-b + math.sqrt(i)) / (2 * a)
     x2 = (-b - math.sqrt(i)) / (2 * a)
     print(
-        f"\n一元二次方程 {a}x^2+{b}x+{c}=0 的解: i={round(i,2)}, x1={round(x1,2)}, x2={round(x2,2)}."
-    )
+        f"\n一元二次方程 {a}x^2+{b}x+{c}=0 的解: i={round(i,2)}, x1={round(x1,2)}, x2={round(x2,2)}.")
     
- #疑问: 标点符号怎么判断?
+#疑问: 标点符号怎么判断?
